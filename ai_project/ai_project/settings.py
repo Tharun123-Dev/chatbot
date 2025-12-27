@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3r12he&f45!9h&4r63&$!6h^7!20x*mk0#=+m)o8lb9=^4#ni$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chatbot-2-lsav.onrender.com']
 
 import os
 from dotenv import load_dotenv
